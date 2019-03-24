@@ -1,0 +1,42 @@
+Uveďte příklad OS
+
+* micro-kernel
+* monolitický
+* hybridní
+
+Jaké parametry OS pro vás budou zajímavé pokud:
+
+* volíte OS pro server
+* volíte OS pro mobilní zařízení
+* volíte OS práci více uživatelů
+* ...
+
+Uveďte možné parametry plánovače (metrika, strategie)?
+
+Uveďte základní požadavky a úlohu plánovače procesů OS.
+
+Jaké metriky můžete sledovat u plánovače OS?
+
+Jak se bude lišit plánovací strategie RT OS od dávkového zpracování?
+
+Jakých stavů a kdy nabývá proces?
+
+Jaký je vztah procesu a programu?
+
+Jakým způsobem pracuje OS s pamětí, kolik paměti má proces k dispozici, jakým způsobem se adresuje pamět procesu (relokace)?
+
+K čemu slouží souborový systém a jaké parametry u něho sledujeme.
+
+Jak je možné řídít přístup ke sdíleným prostředkům (paměť, souborový systém, ...)?
+
+Za jakých podmínek může dojít k deadlocku?
+
+Co obsahují metadata souborového systému?
+
+Jak funguje a k čemu slouží RAID?
+
+K čemu slouží systém LVM?
+
+Vlastnisti FAT vs NTFS?
+
+Jmenujte některé známé souborové systému?
